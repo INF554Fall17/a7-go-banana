@@ -4,7 +4,6 @@
 
 * Group: Go Banana!
 * Topic: Understanding Poverty
-* Website: http://www-scf.usc.edu/~taekasem/go_banana/
 
 ## Group Members
 
